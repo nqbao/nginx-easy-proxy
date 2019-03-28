@@ -1,6 +1,6 @@
 # Nginx Easy Proxy
 
-Quick and easy way to setup an Nginx reverse proxy **with path rewrite**.
+Sometime I just want to quickly setup a reverse proxy for testing, so here is the repo. It provides a quick and easy way to setup an Nginx reverse proxy with path rewrite.
 
 Example:
 
